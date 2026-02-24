@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Everybody Wants To Rule The World",
+  "base_artist": "Tears For Fears",
+  "createdAt": "2026-02-24T14:01:15.771912Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule The World (Extended Version) (1984);Everybody Wants To Rule The World (Extended Version);Everybody Wants To Rule The World (Extended Version)",
+      "artist": "Tears For Fears",
+      "has_synced": true,
+      "path": "select/01_Everybody_Wants_To_Rule_The_World_(Extended_Version)_(1984);Everybody_Wants_To_R_Tears_For_Fears.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Fenomenon",
+      "has_synced": false,
+      "path": "select/02_Everybody_Wants_to_Rule_the_World_Fenomenon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Chlara",
+      "has_synced": false,
+      "path": "select/03_Everybody_Wants_to_Rule_the_World_Chlara.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/04_Everybody_Wants_to_Rule_the_World_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Pomplamoose",
+      "has_synced": true,
+      "path": "select/05_Everybody_Wants_to_Rule_the_World_Pomplamoose.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Lettuce",
+      "has_synced": true,
+      "path": "select/06_Everybody_Wants_to_Rule_the_World_Lettuce.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "flipturn",
+      "has_synced": false,
+      "path": "select/07_Everybody_Wants_To_Rule_The_World_flipturn.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "3TEETH",
+      "has_synced": false,
+      "path": "select/08_Everybody_Wants_To_Rule_The_World_3TEETH.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Lucius",
+      "has_synced": true,
+      "path": "select/09_Everybody_Wants_to_Rule_the_World_Lucius.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Sunshiners",
+      "has_synced": false,
+      "path": "select/10_Everybody_Wants_to_Rule_the_World_Sunshiners.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule the World",
+      "artist": "Lorde",
+      "has_synced": true,
+      "path": "select/11_Everybody_Wants_To_Rule_the_World_Lorde.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/12_Everybody_Wants_To_Rule_The_World_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Patti Smith",
+      "has_synced": true,
+      "path": "select/13_Everybody_Wants_to_Rule_the_World_Patti_Smith.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Patti Smith",
+      "has_synced": true,
+      "path": "select/14_Everybody_Wants_to_Rule_the_World_Patti_Smith.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Andy McKee",
+      "has_synced": true,
+      "path": "select/15_Everybody_Wants_To_Rule_The_World_Andy_McKee.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule the World",
+      "artist": "JOSEPH",
+      "has_synced": true,
+      "path": "select/16_Everybody_Wants_To_Rule_the_World_JOSEPH.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/17_Everybody_Wants_To_Rule_The_World_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Tears For Fears",
+      "has_synced": true,
+      "path": "select/18_Everybody_Wants_To_Rule_The_World_Tears_For_Fears.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Tears For Fears",
+      "has_synced": true,
+      "path": "select/19_Everybody_Wants_To_Rule_The_World_Tears_For_Fears.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Tears For Fears",
+      "has_synced": false,
+      "path": "select/pl_01_Everybody_Wants_To_Rule_The_World_Tears_For_Fears.txt"
+    }
+  ]
+}
